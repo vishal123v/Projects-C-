@@ -1,1 +1,1 @@
-"# Projects-C-" 
+The goal of this project is to grasp the deep knowledge about image processing and get hand on expertise in Opencv. The algorithm is used to perform skin color hand segmentation. Calculation is utilized to perform Fingertip detection. This undertaking can be used for securities and verification purposes. 
